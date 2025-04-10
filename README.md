@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HKeim812
-- 👀 I’m interested in front-end and mobile app design
-- 🌱 I’m currently learning nest.js and typescript
+- 👀 I’m very "green" to the developer world!
+- 🌱 I’m currently exploring a full stack path!
 
 <!---
 HKeim812/HKeim812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
