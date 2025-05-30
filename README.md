@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HKeim812
-- 👀 I’m very "green" to the developer world!
+- 👀 I’m still pretty new to the developer world!
 - 🌱 I’m currently exploring a full stack path!
 
 <!---
